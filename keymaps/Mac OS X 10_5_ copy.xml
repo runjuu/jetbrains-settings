@@ -1,0 +1,25 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="ShowErrorDescription" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+</keymap>

@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".editorconfig" type="Bazaar file" />
+      <mapping ext="wxss" type="CSS" />
+      <mapping pattern=".gitkeep" type="Git file" />
+      <mapping ext="wxml" type="HTML" />
+      <mapping pattern="test" type="JSON" />
+      <mapping ext="wxs" type="JavaScript" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
