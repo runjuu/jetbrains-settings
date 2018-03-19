@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>wxs</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("wxs"))]]></place>
+    </injection>
+  </component>
+</application>
