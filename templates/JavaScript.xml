@@ -1,7 +1,7 @@
 <templateSet group="JavaScript">
-  <template name="im" value="import $exports$ from '$module$'; " description="import" toReformat="false" toShortenFQNames="true">
-    <variable name="exports" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="im" value="import $exports$ from '$module$';" description="import" toReformat="false" toShortenFQNames="true">
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="exports" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CoffeeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
