@@ -8,6 +8,9 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
