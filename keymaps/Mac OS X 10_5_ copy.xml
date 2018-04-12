@@ -32,8 +32,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl meta minus" />
