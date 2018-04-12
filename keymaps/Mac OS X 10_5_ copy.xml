@@ -12,21 +12,31 @@
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
   <action id="JumpToLastWindow" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta alt z" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="ShowBookmarks" />
   <action id="ShowErrorDescription" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta alt equals" />
+  </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta f3" />
   </action>
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
   </action>
+  <action id="ZoomCurrentWindow" />
 </keymap>
