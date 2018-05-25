@@ -2,7 +2,7 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="JavaScript" injector-id="xml">
       <display-name>wxs</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("wxs"))]]></place>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("wxs")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
   </component>
 </application>
